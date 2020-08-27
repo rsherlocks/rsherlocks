@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ...  TensorFlow Lite
 - 💬 Ask me about ... Mobile Application Development
-- 📫 How to reach me: mail:rakib.hasan7483@gmail.com
+- 📫 How to reach me: Gmail: rakib.hasan7483@gmail.com or Visit: [website]
 - ⚡ Fun fact:  I love to working in IoT device and application
 
 
