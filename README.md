@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**rsherlocks/rsherlocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Md.Yusuf Hasan Rakib  👋
+###  I m Happy To Know That You Just Visited My Github Profile
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Android and Hybrid Mobile Appliaction Developer!
+
+- 🔭 I’m currently working on a [Mobile Application Development][website]!
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on ... Projects
+- 🤔 I’m looking for help with ...  TensorFlow Lite
+- 💬 Ask me about ... Mobile Application Development
+- ⚡ Fun fact:  I love to working in IoT device and application
+
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />][gmail]
+
+<br />
+<br/>
+
+
+
+
+[website]: https://sites.google.com/view/rakibdiucse/
+[linkedin]: https://www.linkedin.com/in/md-yusuf-hasan-rakib-004b401a4
+[gmail]: rakib.hasan7483@gmail.com
+
+
