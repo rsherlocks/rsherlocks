@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Md.Yusuf Hasan Rakib  👋
-###  I m Happy To Know That You Just Visited My Github Profile
+###  I'm happy to know that you just visited my github profile
 <br/>
 <br/>
 
