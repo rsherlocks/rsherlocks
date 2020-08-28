@@ -1,10 +1,7 @@
 
 ### Hi there, I'm Md.Yusuf Hasan Rakib  👋
 ### I'm happy to know that you just visited my github profile 😊
-<br/>
-<br/>
-
-## I'm a Android and Hybrid Mobile Appliaction Developer!
+### I'm a Android and Hybrid Mobile Appliaction Developer!
 
 - 🔭 I’m currently working on a [Mobile Application Development][project]!
 - 🌱 I’m currently learning React Native
