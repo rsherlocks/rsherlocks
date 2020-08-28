@@ -6,7 +6,7 @@
 
 ## I'm a Android and Hybrid Mobile Appliaction Developer!
 
-- 🔭 I’m currently working on a [Mobile Application Development][website]!
+- 🔭 I’m currently working on a [Mobile Application Development][project]!
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ...  TensorFlow Lite
@@ -31,5 +31,6 @@
 [website]: https://sites.google.com/view/rakibdiucse/
 [linkedin]: https://www.linkedin.com/in/md-yusuf-hasan-rakib-004b401a4
 [gmail]: rakib.hasan7483@gmail.com
+[project]: https://sites.google.com/view/rakibdiucse/project
 
 
