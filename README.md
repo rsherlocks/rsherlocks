@@ -17,7 +17,7 @@
 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />][gmail]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />] rakib.hasan7483@gmail.com
 
 <br />
 <br/>
